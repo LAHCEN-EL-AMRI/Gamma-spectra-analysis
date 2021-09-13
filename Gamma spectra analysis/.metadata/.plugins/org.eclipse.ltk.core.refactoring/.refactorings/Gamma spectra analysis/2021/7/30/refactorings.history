@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;Library.Librar().s&apos; in &apos;Library.Librar()&apos; to field&#x0D;&#x0A;- Original project: &apos;Gamma spectra analysis&apos;&#x0D;&#x0A;- Original element: &apos;Library.Librar().s&apos;&#x0D;&#x0A;- Field name: &apos;s&apos;&#x0D;&#x0A;- Initialize field in method&#x0D;&#x0A;- Declared visibility: &apos;private&apos;&#x0D;&#x0A;- Declare field &apos;static&apos;" description="Convert local variable &apos;s&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;{Library.java" name="s" selection="175 41" stamp="1627754857782" static="true" version="1.0" visibility="2"/>
+</session>

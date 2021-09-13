@@ -1,0 +1,26 @@
+import static org.junit.Assert.assertArrayEquals;
+
+import java.io.File;
+import java.io.IOException;
+import java.util.Scanner;
+
+public class SpeFile {	
+	private static Scanner s;
+
+	public static void ReadSpeFile() throws IOException {
+		
+		 s = new Scanner(new File(Mainn.fichier));		
+		 
+	      while (s.hasNext()){
+	    	String data = s.next();
+	    	  if(data.equals("$DATA:")) {System.out.println(s.next());}
+	    	  
+	    	  //radinucleid.add(s.next());	    	  
+	    	  	    	  
+	    	 // s.nextFloat();	    	  
+	      }
+	    
+	}
+	
+	
+}
