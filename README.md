@@ -26,7 +26,7 @@ User has two possibilities:
 # Made with:
 
 - java language
-- JFreeChart library (https://www.jfree.org/jfreechart/)
+- [JFreeChart library](https://www.jfree.org/jfreechart/)
 
 
 # Versions
