@@ -12,8 +12,7 @@ Gamma spectra analysis (GSA) is software to locate absorption peaks, calculate p
 
 
 # Prerequisites
-A manual existed in the Doc folder explains in detail all the options of the graphical interface.
-Manual : https://github.com/LAHCEN-EL-AMRI/Gamma-spectra-analysis/tree/master/Gamma%20spectra%20analysis/Gamma%20spectra%20analysis/Doc
+A [manual](https://github.com/LAHCEN-EL-AMRI/Gamma-spectra-analysis/tree/master/Gamma%20spectra%20analysis/Gamma%20spectra%20analysis/Doc) existed in the Doc folder explains in detail all the options of the graphical interface.
 
 
 # Installion
