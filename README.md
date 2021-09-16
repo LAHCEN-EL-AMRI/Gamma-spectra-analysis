@@ -2,7 +2,7 @@
 Gamma spectra analysis (GSA) is software to locate absorption peaks, calculate peak areas and identify radionuclides.
 
 
-# GUI :
+# GUI 
 
 
 ![GUI](https://user-images.githubusercontent.com/84868855/133160395-fd108504-539a-4871-9add-2fa9c1304f51.png)
