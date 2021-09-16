@@ -13,9 +13,10 @@ Gamma spectra analysis (GSA) is software to locate absorption peaks, calculate p
 
 # Prerequisites
 A manual existed in the Doc folder explains in detail all the options of the graphical interface.
+Manual : https://github.com/LAHCEN-EL-AMRI/Gamma-spectra-analysis/tree/master/Gamma%20spectra%20analysis/Gamma%20spectra%20analysis/Doc
 
 
-# Install
+# Installion
 
 Java language must be pre-installed on the computer.
 User has two possibilities:
@@ -41,4 +42,4 @@ User has two possibilities:
 
 # LICENSE
 
-- This project is licensed under GNU Affero General Public License v3.0 (see the LICENSE.md file for more information)
+- This project is licensed under GNU Affero General Public [License](https://github.com/LAHCEN-EL-AMRI/Gamma-spectra-analysis/blob/master/LICENSE)  v3.0 (see the LICENSE.md file for more information)
